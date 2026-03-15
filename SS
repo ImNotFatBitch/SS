@@ -1,3 +1,3 @@
+print("passed2")
 local result = true
-print("passed")
 return result
